@@ -1,20 +1,8 @@
-.About_me_title{
-    width: 30%;
-    height: 101px;
+.Top_text_Button{
     display: flex;
-    align-items: flex-end;
-    justify-content: end;
-}
-h1{
-    font-size: 60px;
-    margin: 0px;
-}
-.Over_all_button{
-    width: 15%;
-    height: 30px;
-    border-radius: 20px;
+    justify-content: space-between;
     align-items: center;
-    justify-content: center;
-    border-radius: 0px solid black;
-    display: flex;
+    width: 80%;
+    height: 30px;
 }
+

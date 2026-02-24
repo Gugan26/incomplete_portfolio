@@ -1,7 +1,7 @@
 function Project_full(){
     return(
         <>
-        <h1>hellow</h1>
+        <h1>Project</h1>
         </>
     );
 }

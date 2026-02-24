@@ -17,3 +17,12 @@
   align-items: center;
   gap: 5px;
 }
+.Over_all_button{
+    width: 15%;
+    height: 30px;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0px solid black;
+    display: flex;
+}

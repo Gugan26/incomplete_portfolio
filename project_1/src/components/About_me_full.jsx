@@ -1,13 +1,11 @@
 import "../Css/About_me_full.css"
 import { motion } from "framer-motion"
 
-function About_me_full(Colorset){
+function About_me_full(){
     return(
         <>
-        <div style={{backgroundColor: Colorset}} className="Full_div" >
-            <motion.div className="Left_full_div"></motion.div>
-            <motion.div className="Right_full_div"></motion.div>
-        </div>
+        <motion.div className="Left_full_div"></motion.div>
+        <motion.div className="Right_full_div"></motion.div>
         </>
     );
 }

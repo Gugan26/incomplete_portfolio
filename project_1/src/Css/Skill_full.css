@@ -1,0 +1,9 @@
+.Skill_full_div{
+    width: 100%;
+    height: 80vh;
+    border-radius:20px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

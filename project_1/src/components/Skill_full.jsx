@@ -1,7 +1,7 @@
 function Skill_full(){
     return(
         <>
-        <h2>hellow</h2>
+        <h1>Skill</h1>
         </>
     );
 }

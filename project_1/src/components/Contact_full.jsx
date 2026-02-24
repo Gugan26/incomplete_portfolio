@@ -1,6 +1,7 @@
 function Contact_full(){
     return(
         <>
+        <h1>Contact</h1>
         </>
     );
 }
